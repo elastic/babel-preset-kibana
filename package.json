@@ -1,6 +1,6 @@
 {
   "name": "@elastic/babel-preset-kibana",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The babel preset used by the Kibana project",
   "main": "use_inner_modules.js",
   "keywords": [],
