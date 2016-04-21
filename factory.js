@@ -7,6 +7,7 @@ module.exports = function (opts) {
   }
 
   var plugins = [].concat(
+    require('./es2015_plugins')(opts.regenerator),
     require('babel-preset-es2015').plugins,
     require('babel-preset-stage-1').plugins,
     require('babel-preset-stage-2').plugins,

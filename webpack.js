@@ -1,3 +1,4 @@
 module.exports = require('./factory')({
-  react: true
+  react: true,
+  regenerator: true
 });
