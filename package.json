@@ -39,5 +39,17 @@
     "babel-preset-stage-1": "^6.5.0",
     "babel-preset-stage-2": "^6.5.0",
     "babel-preset-stage-3": "^6.5.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elastic/babel-preset-kibana.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elastic/babel-preset-kibana/issues"
+  },
+  "homepage": "https://github.com/elastic/babel-preset-kibana#readme"
 }
